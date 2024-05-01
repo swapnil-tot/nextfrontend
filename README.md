@@ -1,11 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 Develop a chat functionality within an OpenAI platform using Next.js, emphasizing real-time communication, message rendering, and user interface responsiveness.
+
+This is a [Next.js](https://nextjs.org/) project with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 - Use the following Next Version :- 14.0.0
 - Open the project code in the IDE and open the terminal in the project folder
-- create .env file in root folder add OPENAI_API_KEY in file
+- Create .env file in root folder add OPENAI_API_KEY in file
 - Following are the commands in the terminal.
 
 ## For installation of packages
@@ -20,12 +20,12 @@ npm run dev
 
 ## Runs `next build` which builds the application for production usage
 ```bash
-npm  build
+npm run build
 ```
 
 ## Runs `next start` which starts a Next.js production server
 ```bash
-npm  start
+npm run start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
